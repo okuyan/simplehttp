@@ -8,7 +8,7 @@ npm install express-generator
 ./node_modules/.bin/express
 npm init
 npm install
-npm start
+node ./bin/www
 ```
 
 open http://127.0.0.1:3000/
